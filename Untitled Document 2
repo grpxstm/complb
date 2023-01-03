@@ -1,0 +1,34 @@
+#include<stdio.h>
+char input[20];
+int lookahead-0;
+void E();
+void E1();
+void T();
+void T1();
+void F();
+int L1=1;
+void match(char t);
+int main()
+{
+printf("enter the input string:");
+gets(input);
+E();
+if((input[lookahead]='$')&&L1==1)
+
+printf(" accepted In");
+else
+printf"not accepted In");
+void EO
+TO:
+E10
+void E10
+ifinput[lookahead]+)
+match(+):
+TO:
+E10%
+else if(input[lookahead]-)
+match(-):
+TO;
+E10:
+else
+return;
