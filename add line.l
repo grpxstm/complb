@@ -1,5 +1,6 @@
 %{
 #include<stdio.h>
+int l=1;
 %}
 nl .*\n
 %%
